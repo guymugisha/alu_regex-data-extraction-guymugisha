@@ -1,0 +1,9 @@
+<script>alert('hacked')</script>
+Email: admin@example.com; alt: admin@@example.com
+Phone: (999)999-9999 ext. 123
+URL: javascript:alert('stealCookies')
+Currency: $12,34.56 (invalid format)
+Card: 1234-5678-9012-345 (only 15 digits)
+Meeting time: 2:30 pm, 14:30, 25:61 (invalid)
+<div onclick="evil()">Click me</div>
+#HackAttempt #Test

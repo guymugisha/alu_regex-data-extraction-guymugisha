@@ -1,0 +1,36 @@
+[
+    {
+        "emails": [
+            "a***n@example.com"
+        ],
+        "urls": [],
+        "phoneNumbers": [
+            "(999)999-9999"
+        ],
+        "currencyAmounts": [
+            "$12"
+        ],
+        "creditCards": [],
+        "timestamps": [
+            "2:30 pm",
+            "14:30"
+        ]
+    },
+    {
+        "emails": [
+            "a***n@example.com"
+        ],
+        "urls": [],
+        "phoneNumbers": [
+            "(999)999-9999"
+        ],
+        "currencyAmounts": [
+            "$12"
+        ],
+        "creditCards": [],
+        "timestamps": [
+            "2:30 pm",
+            "14:30"
+        ]
+    }
+]
